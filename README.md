@@ -1,6 +1,7 @@
 
 #what is Git?
 # Git
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Color_icon_white.svg/800px-Color_icon_white.svg.png)
  revision and the cloud 
 NOTE: When git reset --hard is used, Git overwrites all changes in the working directory, permanently destroying any uncommitted changes.
 
